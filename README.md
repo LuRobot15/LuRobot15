@@ -7,7 +7,7 @@
 <ul>
   <li><b>Languages</b> - Python, C++, Java</li>
   <li><b>Web Frameworks</b> - Flask, Django</li>
-  <li><b>Testing Frameworkd</b> - unittest, Microsoft C++ unit test</li>
+  <li><b>Testing Frameworks</b> - unittest, Microsoft C++ unit test</li>
   <li><b>UI Frameworks</b> - Qt</li>
   <li><b>Databases</b> - SQL (SQLite)</li>
   <li><b>Tools</b> - Git, OpenCL, MPI, OpenMP, OpenGL</li>
